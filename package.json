@@ -1,0 +1,11 @@
+{
+  "name": "perfect-assistant-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "perfect-assistant-mcp": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}
